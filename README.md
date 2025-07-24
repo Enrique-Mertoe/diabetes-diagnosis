@@ -1,10 +1,6 @@
 # 🩺 AI-Enhanced Diabetes Risk Prediction System
 
 **Assignment 2: Solution Implementation with Advanced AI Integration**  
-**Author**: [Your Name]  
-**Email**: hr@digitalcatalyst.com  
-**Date**: [Current Date]  
-**Repository**: Advanced ML + Generative AI Healthcare Solution
 
 ## 🌟 Executive Summary
 
